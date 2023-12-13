@@ -1,0 +1,28 @@
+
+.AddPatient    {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    height:78Vh;
+    width:320px;
+    	
+}
+.AddPatient >label {
+    text-align: center;
+    	
+}
+.AddPatient > form {
+    width:270px;
+    height:50vh;
+	
+}
+.AddPatient  >form> input {
+    width:100%;
+    box-sizing: border-box;
+    margin: 0 0 10px 0;
+	
+}
+.AddPatient >form > button {
+    width:50%;
+    margin: 0 0 2px 0;
+}

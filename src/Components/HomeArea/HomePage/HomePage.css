@@ -1,0 +1,67 @@
+.HomePage {
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+    box-sizing:border-box;
+    display:grid;
+    background-color: white;
+    grid-template-columns:repeat(6,1fr);
+    grid-template-rows:38% 53% 10%;
+    background-color: powderblue;
+    /* overflow:auto;	 */
+}
+/* .HomePage>main>.A{
+ direction:rtl;
+ 
+}
+.HomePage>main>.B{
+    direction:ltr;
+    
+   } */
+.HomePage,.HomePage>*{
+  /* border: 1px solid black;  */
+}
+.HomePage >header,footer{
+    grid-column:span 6;
+} 
+.HomePage >header{
+   display: flex;
+   flex-direction:row;
+} 
+
+ .HomePage > header > Logo:last-child(1){
+    flex-basis: 50% 50%;
+
+ } 
+.HomePage> main{
+    grid-column:span 6;
+    display: flex;
+    font-style: oblique;
+}
+ .HomePage >main>div{
+     flex:1;
+     font-size: xx-large;
+    
+}
+.HomePage > Footer>button{
+    padding:10px;
+    margin:10px;
+   height:50px;
+   width:300px;
+   text-align:center;
+   font-weight:bolder;
+   font-size:xx-large;
+   font-style:italic;
+   box-sizing:border-box;
+} 
+ .HomePage >.btn-group{
+    width:50px;
+    height:20px;
+ } 
+ .HomePage >main>.A>.p1{
+    height:40vh;
+    text-align:end;
+}
+ 
+

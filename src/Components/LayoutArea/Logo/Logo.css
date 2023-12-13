@@ -1,0 +1,21 @@
+.Logo {
+    height:100%;
+    width:100%;
+    padding:0;
+    margin:0;
+    box-sizing:border-box;
+    /* border:1ppx solid black; */
+    /* position:fixed; */
+    right:100px;
+    /* left: 0px; */
+    
+}
+.Logo >img{
+    height:60%;
+    width:66.4%;
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+    border-radius:10px;
+    vertical-align:middle;
+}

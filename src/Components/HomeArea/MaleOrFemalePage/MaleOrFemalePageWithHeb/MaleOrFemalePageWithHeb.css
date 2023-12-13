@@ -1,0 +1,34 @@
+
+.MaleOrFemalePageWithHeb  {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    height:100%;
+    background-color: 1px solid black;
+    background-color: white;
+    flex-wrap:wrap;
+    display: flex;
+}
+.MaleOrFemalePageWithHeb  > .svgClass{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    width:16px;
+    height:16; 
+
+}
+.MaleOrFemalePageWithHeb > div {
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    background-color:white;
+    flex:1;
+
+}
+.MaleOrFemalePageWithHeb > div >img{
+    height:700px;
+    width:700px; 
+
+}
+
+

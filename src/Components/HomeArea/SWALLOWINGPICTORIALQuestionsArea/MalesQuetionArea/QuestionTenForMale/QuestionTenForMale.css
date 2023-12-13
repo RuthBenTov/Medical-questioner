@@ -1,0 +1,23 @@
+
+	.QuestionTenForMale {
+        width:100%;
+        /* background-color: 1px solid black; */
+        background-color: white;
+        flex-wrap:wrap;
+        display:flex;
+    
+    }
+    .QuestionTenForMale  > div {
+        text-align: center;
+        font-size: x-large;
+        padding: 10px;
+        /* border: 1px solid black; */
+        background-color:white;
+        flex:1;
+    
+    }
+    .QuestionTenForMale  > div >img{
+        height:700px;
+        width:700px;  
+    }
+    

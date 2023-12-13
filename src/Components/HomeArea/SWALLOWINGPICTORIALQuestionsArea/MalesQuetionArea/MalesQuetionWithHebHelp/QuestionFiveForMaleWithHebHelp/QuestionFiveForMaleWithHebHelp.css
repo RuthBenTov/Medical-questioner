@@ -1,0 +1,22 @@
+
+   .QuestionFiveForMaleWithHebHelp  {
+        width:100%;
+        width:100%;
+        /* background-color: 1px solid black; */
+        background-color: white;
+        flex-wrap:wrap;
+        display:flex;
+    
+    }
+    .QuestionFiveForMaleWithHebHelp   > div {
+        text-align: center;
+        font-size: x-large;
+        padding: 10px;
+        /* border: 1px solid black; */
+        background-color:white;
+        flex:1;
+    
+    }
+    .QuestionFiveForMaleWithHebHelp  > div >img{
+        height:700px; 
+    } 

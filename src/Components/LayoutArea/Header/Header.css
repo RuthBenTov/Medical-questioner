@@ -1,0 +1,13 @@
+.Header {
+    margin:0;
+    padding:0;
+    height:100%;
+    display:flex;
+    justify-content:center;
+}
+.Header div:first-child(1){
+    margin-right:10px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}

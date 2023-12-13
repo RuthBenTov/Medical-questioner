@@ -1,0 +1,34 @@
+
+    .ResultsInHeb  {
+      height:100%;
+      width:100%;
+      display:inline-flex;
+      align-items:center;
+      padding-right:0;
+      background-image: linear-gradient(45deg,lightgreen,white);
+      display:flex;
+      flex-direction:row;
+  }
+  .ResultsInHeb>div{
+      height:100%;
+      width:100%;
+      padding:5px;
+      margin:5px;
+      border-radius:10px;
+      height:40vh;
+      text-align:end;
+      
+   }
+    .UserCard >div> img> src>img {
+      width:60px;
+      height:60px;
+      padding:5px;
+      margin:5px;
+      border-radius:10px;
+      border:1px solid black;
+      vertical-align:middle;
+      
+   } 
+  .UserCard> div:last-child{
+      margin-left: auto;
+   }

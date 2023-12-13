@@ -1,0 +1,19 @@
+
+	.QuestionTenWithHebHelp {
+        height:100%;
+        background-color: white;
+        flex-wrap:wrap;
+        display: flex;
+    }
+    .QuestionTenWithHebHelp > div {
+        text-align: center;
+        font-size: x-large;
+        padding: 10px;
+        background-color:white;
+        flex:1;
+    
+    }
+    .QuestionTenWithHebHelp > div >img{
+        height:700px;
+        width:650px;    
+    }

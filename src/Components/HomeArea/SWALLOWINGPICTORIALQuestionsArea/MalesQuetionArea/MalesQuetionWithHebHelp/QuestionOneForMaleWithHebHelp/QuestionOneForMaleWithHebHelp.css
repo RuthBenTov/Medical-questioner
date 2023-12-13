@@ -1,0 +1,22 @@
+
+.QuestionOneForMaleWithHebHelp  {
+    width:100%;
+    width:100%;
+    background-color: white;
+    flex-wrap:wrap;
+    display:flex;
+
+}
+.QuestionOneForMaleWithHebHelp > div {
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    background-color:white;
+    flex:1;
+
+}
+.QuestionOneForMaleWithHebHelp > div >img{
+    height:700px;
+    width:700px;  
+} 
+

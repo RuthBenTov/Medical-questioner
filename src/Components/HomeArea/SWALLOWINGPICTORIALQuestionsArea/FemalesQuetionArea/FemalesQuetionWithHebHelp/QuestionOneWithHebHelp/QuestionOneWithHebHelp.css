@@ -1,0 +1,19 @@
+
+.QuestionOneWithHebHelp {
+    height:100%;
+    background-color: white;
+    flex-wrap:wrap;
+    display: flex;
+}
+.QuestionOneWithHebHelp> div {
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    background-color:white;
+    flex:1;
+
+}
+.QuestionOneWithHebHelp> div >img{
+    height:700px;
+    width:650px;    
+}

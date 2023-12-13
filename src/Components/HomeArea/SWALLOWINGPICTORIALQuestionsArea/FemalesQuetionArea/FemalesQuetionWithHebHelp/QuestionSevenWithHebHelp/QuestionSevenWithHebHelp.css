@@ -1,0 +1,19 @@
+.QuestionSevenWithHebHelp   {
+        height:100%;
+        background-color: white;
+        flex-wrap:wrap;
+        display: flex;
+    }
+    .QuestionSevenWithHebHelp  > div {
+        text-align: center;
+        font-size: x-large;
+        padding: 10px;
+        background-color:white;
+        flex:1;
+    
+    }
+    .QuestionSevenWithHebHelp  > div >img{
+        height:700px;
+        width:650px;    
+    }
+    

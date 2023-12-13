@@ -1,0 +1,35 @@
+
+.AddPatientInHeb {
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    height:78Vh;
+    	
+}
+.AddPatientInHeb>h1 {
+    text-align: center;
+    	
+}
+.AddPatientInHeb >label {
+    text-align: center;
+    
+    	
+}
+.AddPatientInHeb > form {
+    width:270px;
+    height:50vh;
+    width:350px;
+    text-align:end;
+	
+}
+.AddPatientInHeb  >form> input {
+    width:100%;
+    box-sizing: border-box;
+    margin: 0 0 10px 0;
+	
+}
+.AddPatientInHeb  >form > button {
+    width:50%;
+    margin: 0 0 2px 0;
+}
+

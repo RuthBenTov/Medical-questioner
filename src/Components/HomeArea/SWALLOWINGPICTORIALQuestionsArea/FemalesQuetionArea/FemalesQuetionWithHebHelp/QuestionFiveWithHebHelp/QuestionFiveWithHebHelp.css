@@ -1,0 +1,19 @@
+
+.QuestionFiveWithHebHelp  {
+    height:100%;
+    background-color: white;
+    flex-wrap:wrap;
+    display: flex;
+}
+.QuestionFiveWithHebHelp  > div {
+    text-align: center;
+    font-size: x-large;
+    padding: 10px;
+    background-color:white;
+    flex:1;
+
+}
+.QuestionFiveWithHebHelp > div >img{
+    height:700px;  
+}
+
